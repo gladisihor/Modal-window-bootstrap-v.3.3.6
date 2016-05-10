@@ -87,6 +87,7 @@ input[type="search"]::-webkit-search-cancel-button{-webkit-appearance: none;}
 	margin:0 0 5px;
 	white-space:nowrap;
 }
+.search-form.form-inline .form-control{width:180px;}
 .pages-list{
 	height:267px;
 	overflow:auto;
